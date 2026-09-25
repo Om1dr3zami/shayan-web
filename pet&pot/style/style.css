@@ -1,0 +1,22 @@
+/* __________root__________ */
+:root{
+    --color40: #E3F2FD ;
+    --color30: #90CAF9 ;
+    --color20: #2196F3 ;
+    --color10: #0D47A1 ;
+    --color0: #000000;
+    --colorf: #ffffff;
+}
+/* __________main-setting__________ */
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    font-family: Roboto, arial ;
+    transition: all 0.4s;
+}
+body{
+    /* padding-inline: 1rem; */
+    margin-inline: auto;
+    min-height: 100vh;
+}
